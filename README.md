@@ -9,7 +9,8 @@ This tool allows you to check your number list from a txt file and validate them
 3. **Detect Personal or Business Account**: Can detect whether the account is personal or business.
 4. **Detect Active Account or Not**: Identifies whether the account is active or not.
 5. **Fast Checking**: Can check up to 120 numbers per minute.
-6. **100% Accuracy Guarantee**: Ensures 100% accurate results.
+6. **Worldwide Checking**: Supports worldwide number checking.
+7. **100% Accuracy Guarantee**: Ensures 100% accurate results.
 
 ## Pricing
 
