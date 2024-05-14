@@ -20,4 +20,4 @@ This tool allows you to check your number list from a txt file and validate them
 
 **Note**: Initial Setup Cost is $200, including 10,000 Number Checking.
 
-If you want to buy, contact me via Telegram at @alexrony21.
+If you want to buy, contact me via Telegram at [@alexrony21](https://t.me/alexrony21).
