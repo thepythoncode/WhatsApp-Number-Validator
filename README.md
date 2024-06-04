@@ -19,6 +19,4 @@ This tool allows you to check your number list from a txt file and validate them
 - For 1,000,000 Number Checking: $750 (Validity: 1 month)
 - For Custom Contact: Contact for pricing
 
-**Note**: Initial Setup Cost is $100, including 10,000 Number Checking.
-
 If you want to buy, contact me via Telegram at [@alexrony21](https://t.me/alexrony21).
