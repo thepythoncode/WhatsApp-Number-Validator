@@ -14,9 +14,9 @@ This tool allows you to check your number list from a txt file and validate them
 
 ## Pricing
 
-- For 10,000 Number Checking: $50 (Validity: 1 month)
-- For 100,000 Number Checking: $350 (Validity: 1 month)
-- For 1,000,000 Number Checking: $750 (Validity: 1 month)
+- For 10,000 Number Checking: $20 (Validity: 1 month)
+- For 100,000 Number Checking: $300 (Validity: 1 month)
+- For 1,000,000 Number Checking: $700 (Validity: 1 month)
 - For Custom Contact: Contact for pricing
 
 If you want to buy, contact me via Telegram at [@alexrony21](https://t.me/alexrony21).
